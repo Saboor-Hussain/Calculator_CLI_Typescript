@@ -27,7 +27,7 @@ The Calculator CLI is a simple yet powerful TypeScript program that enables you 
 2. Navigate to the project directory:
 
    ```bash
-   cd calculator-cli
+   cd Calculator_CLI_Typescript
    ```
 
 3. Install the project dependencies using npm:

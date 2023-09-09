@@ -21,7 +21,7 @@ The Calculator CLI is a simple yet powerful TypeScript program that enables you 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/calculator-cli.git
+   git clone https://github.com/Saboor-Hussain/Calculator_CLI_Typescript.git
    ```
 
 2. Navigate to the project directory:
